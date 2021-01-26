@@ -29,7 +29,10 @@
     - [🛑SRP위반?](https://github.com/dhtpdud/DesignPatternStudy/wiki/%EC%8B%B1%EA%B8%80%ED%84%B4-%ED%8C%A8%ED%84%B4-(Singleton-pattern)#srp%EC%9C%84%EB%B0%98)
 - 구조 패턴
   - [데코레이터 패턴 (Decorator pattern)](https://github.com/dhtpdud/DesignPatternStudy/wiki/%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0-%ED%8C%A8%ED%84%B4-(Decorator-pattern))
-  - 어댑터, 퍼사드 패턴 (Adapter, Facade pattern)
+  - [어댑터 패턴 (Adapter pattern)](https://github.com/dhtpdud/DesignPatternStudy/wiki/%EC%96%B4%EB%8C%91%ED%84%B0-%ED%8C%A8%ED%84%B4-(Adapter-pattern))
+    - [각 어댑터 패턴의 장단점](https://github.com/dhtpdud/DesignPatternStudy/wiki/%EC%96%B4%EB%8C%91%ED%84%B0-%ED%8C%A8%ED%84%B4-(Adapter-pattern)#각-어댑터-패턴의-장단점)
+    - [어댑터 패턴과 데코레이터 패턴의 차이점](https://github.com/dhtpdud/DesignPatternStudy/wiki/%EC%96%B4%EB%8C%91%ED%84%B0-%ED%8C%A8%ED%84%B4-(Adapter-pattern)#어댑터-패턴과-데코레이터-패턴의-차이점)
+  - [퍼사드 패턴 (Facade pattern)](https://github.com/dhtpdud/DesignPatternStudy/wiki/%ED%8D%BC%EC%82%AC%EB%93%9C-%ED%8C%A8%ED%84%B4-(Facade-pattern))
   - 프록시 패턴 (Proxy pattern)
   - 이터레이터, 컴포지트 패턴 (Iterator, Composite pattern)
 - 동작 패턴
