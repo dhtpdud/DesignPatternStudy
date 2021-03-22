@@ -1,4 +1,6 @@
 # 디자인 패턴
+> 디자인 패턴은 프로그래머가 어플리케이션이나 시스템을 디자인할 때 공통된 문제들을 해결하는데에 쓰이는 형식화 된 가장 좋은 관행이다. <sup>출처: [위키백과](https://ko.wikipedia.org/wiki/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%EB%94%94%EC%9E%90%EC%9D%B8_%ED%8C%A8%ED%84%B4)
+
 디자인 패턴 공부를 위한 페이지입니다.
 
 공부하기 위해 사용한 정보들은 **Head First Design Patterns: 스토리가 있는 패턴 학습법<sup>(서환수 역 - 2005 초판)</sup>** 을 기준으로,  
@@ -9,8 +11,10 @@
 
 📝**현재 열씸히 공부중**📝
 
+***
 
 ## 목차
+### 사전 지식
 - [상속과 구성](https://github.com/dhtpdud/DesignPatternStudy/wiki/%EC%83%81%EC%86%8D%EA%B3%BC-%EA%B5%AC%EC%84%B1)
 - SOLID 원칙<sup name="a1">[[1]](#f1)</sup>
   - [Single Responsiblity Principle (단일 책임 원칙)](https://github.com/dhtpdud/DesignPatternStudy/wiki/SOLID:-Single-Responsiblity-Principle-(%EB%8B%A8%EC%9D%BC-%EC%B1%85%EC%9E%84-%EC%9B%90%EC%B9%99))
@@ -20,6 +24,11 @@
   - [Dependency Inversion Principle (의존 역전 원칙)](https://github.com/dhtpdud/DesignPatternStudy/wiki/SOLID:-Dependency-Inversion-Principle-(%EC%9D%98%EC%A1%B4-%EC%97%AD%EC%A0%84-%EC%9B%90%EC%B9%99))
     - [의존이란?](https://github.com/dhtpdud/DesignPatternStudy/wiki/SOLID:-Dependency-Inversion-Principle-(%EC%9D%98%EC%A1%B4-%EC%97%AD%EC%A0%84-%EC%9B%90%EC%B9%99)#f1)
     - [의존성 주입이란?](https://github.com/dhtpdud/DesignPatternStudy/wiki/SOLID:-Dependency-Inversion-Principle-(%EC%9D%98%EC%A1%B4-%EC%97%AD%EC%A0%84-%EC%9B%90%EC%B9%99)#f2)
+- 기타 원칙
+  - [최소 지식 원칙 (데메테르의 법칙)](https://github.com/dhtpdud/DesignPatternStudy/wiki/%EC%B5%9C%EC%86%8C-%EC%A7%80%EC%8B%9D-%EC%9B%90%EC%B9%99-(%EB%8D%B0%EB%A9%94%ED%85%8C%EB%A5%B4%EC%9D%98-%EB%B2%95%EC%B9%99))
+
+### 패턴 목록
+
 - 생성 패턴
   - [팩토리 패턴 (Factory pattern)](https://github.com/dhtpdud/DesignPatternStudy/wiki/%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%8C%A8%ED%84%B4-(Factory-pattern))
     - [팩토리 메소드 패턴](https://github.com/dhtpdud/DesignPatternStudy/wiki/%ED%8C%A9%ED%86%A0%EB%A6%AC-%ED%8C%A8%ED%84%B4-(Factory-pattern)#팩토리-메소드-패턴-factory-method-pattern)
